@@ -45,6 +45,7 @@ const AfterInstallation = () => {
         </div>
 
         <div className="pt-4 text-small leading-tight text-[#743ad5]">Note: REPLACE_WITH_YOUR_SONARQUBE_IP_AND_PORT should be like "sub.host.com:9000" or "172.1.2.3:9000"</div>
+        <sup className="opacity-10">จะรู้ได้ไงคนไหนคนไทย ถ้าแบ่งปันให้กันใช้ละคนไทยแน่นอน</sup>
       </div>
     </div>
   )

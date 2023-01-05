@@ -11,6 +11,7 @@ The Vite template with react plugin and tools for scaffolding your project
   - [📝 Table of Contents](#-table-of-contents)
   - [📦 Template contains](#-template-contains)
   - [📝 Versions](#-versions)
+    - [v0.1.1 - `2023-01-05`](#v011---2023-01-05)
     - [v0.1.0 - `2022-10-11`](#v010---2022-10-11)
   - [📌 Get Started](#-get-started)
     - [Want some more ?](#want-some-more-)
@@ -25,6 +26,10 @@ The Vite template with react plugin and tools for scaffolding your project
 - [x] CI/CD supported (`Jenkins` & `SonarQube`)
 
 ## 📝 Versions
+
+### v0.1.1 - `2023-01-05`
+
+- Fixed bug on local font import.
 
 ### v0.1.0 - `2022-10-11`
 

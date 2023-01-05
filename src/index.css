@@ -2,19 +2,42 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  color-scheme: light dark;
+@layer base {
+  @font-face {
+    font-family: "IBM Plex Sans Thai";
+    font-style: normal;
+    font-weight: normal;
+    src: local(""),
+      url("assets/fonts/ibm-plex-sans-thai-regular.woff2") format("woff2"),
+      /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url("assets/fonts/ibm-plex-sans-thai-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+  @font-face {
+    font-family: "IBM Plex Sans Thai";
+    font-style: normal;
+    font-weight: bold;
+    src: local(""),
+      url("assets/fonts/ibm-plex-sans-thai-bold.woff2") format("woff2"),
+      /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url("assets/fonts/ibm-plex-sans-thai-bold.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+}
+
+* {
+  font-family: "IBM Plex Sans Thai", system-ui, sans-serif !important;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+}
 
+:root {
   margin: 0;
   padding: 0;
-  font-family: "IBM Plex Sans Thai", sans-serif;
   background: #dcd6f7;
   color: #424874;
+  color-scheme: light dark;
   font-size: 100%;
   font-weight: 400;
   line-height: 1.75;
@@ -23,19 +46,13 @@
   overflow-wrap: break-word;
 }
 
-@font-face {
-  font-family: "IBM Plex Sans Thai";
-  src: url("assets/fonts/ibmplexsansthai-regular-webfont.woff2") format("woff2"),
-    url("assets/fonts/ibmplexsansthai-regular-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: "IBM Plex Sans Thai";
-  src: url("assets/fonts/ibmplexsansthai-bold-webfont.woff2") format("woff2"),
-    url("assets/fonts/ibmplexsansthai-bold-webfont.woff") format("woff");
-  font-weight: bold;
-  font-style: normal;
+body {
+  margin: 0;
+  display: flex;
+  /* place-items: center; */
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #dcd6f7;
 }
 
 p {
