@@ -11,6 +11,7 @@ The Vite template with react plugin and tools for scaffolding your project
   - [📝 Table of Contents](#-table-of-contents)
   - [📦 Template contains](#-template-contains)
   - [📝 Versions](#-versions)
+    - [v0.3.0 - `2023-01-30`](#v030---2023-01-30)
     - [v0.2.1 - `2023-01-26`](#v021---2023-01-26)
     - [v0.2.0 - `2023-01-05`](#v020---2023-01-05)
     - [v0.1.1 - `2023-01-05`](#v011---2023-01-05)
