@@ -2,7 +2,7 @@ import AboutPage from "pages/AboutPage";
 import HomePage from "pages/HomePage";
 import NotFoundPage from "pages/NotFoundPage";
 import { Route, Routes } from "react-router-dom";
-import './App.css';
+import "./App.css";
 
 const App = () => {
   return (
@@ -11,7 +11,7 @@ const App = () => {
       <Route path="/about" element={<AboutPage />} />
       <Route path="*" element={<NotFoundPage />} />
     </Routes>
-  )
-}
+  );
+};
 
-export default App
+export default App;

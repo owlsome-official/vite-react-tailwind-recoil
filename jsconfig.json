@@ -1,29 +1,15 @@
 {
   "compilerOptions": {
-    "lib": [
-      "esnext"
-    ],
+    "lib": ["esnext"],
     "baseUrl": ".",
     "jsx": "react",
     "paths": {
-      "assets/*": [
-        "./src/assets/*"
-      ],
-      "components/*": [
-        "./src/components/*"
-      ],
-      "layouts/*": [
-        "./src/layouts/*"
-      ],
-      "pages/*": [
-        "./src/pages/*"
-      ],
-      "utils/*": [
-        "./src/utils/*"
-      ]
+      "assets/*": ["./src/assets/*"],
+      "components/*": ["./src/components/*"],
+      "layouts/*": ["./src/layouts/*"],
+      "pages/*": ["./src/pages/*"],
+      "utils/*": ["./src/utils/*"]
     }
   },
-  "exclude": [
-    "./node_modules/**/"
-  ]
+  "exclude": ["./node_modules/**/"]
 }
