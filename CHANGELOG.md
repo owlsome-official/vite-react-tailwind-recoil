@@ -2,6 +2,10 @@
 
 ## Version History
 
+### [v0.3.1] - `2023-05-22`
+
+- Updated dependencies
+
 ### [v0.3.0] - `2023-01-30`
 
 - Added `prettier`, and `prettier-plugin-tailwindcss`
