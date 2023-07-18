@@ -2,6 +2,10 @@
 
 ## Version History
 
+### [v0.3.3] - `2023-07-18`
+
+- Updated dependencies
+
 ### [v0.3.2] - `2023-06-09`
 
 - Updated dependencies
@@ -34,6 +38,7 @@
 
 - First time ever, it contains a lot of dir/files but it was needed.
 
+[v0.3.3]: https://github.com/buildingwatsize/vite-react-tailwind-recoil/releases/tag/v0.3.3
 [v0.3.2]: https://github.com/buildingwatsize/vite-react-tailwind-recoil/releases/tag/v0.3.2
 [v0.3.1]: https://github.com/buildingwatsize/vite-react-tailwind-recoil/releases/tag/v0.3.1
 [v0.3.0]: https://github.com/buildingwatsize/vite-react-tailwind-recoil/releases/tag/v0.3.0
