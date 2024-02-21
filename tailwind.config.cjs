@@ -20,16 +20,16 @@ module.exports = {
     themes: [
       {
         light: {
-          primary: "#424874", // main color
-          secondary: "#A6B1E1", // secondary color
-          accent: "#6366f1", // accent
-          neutral: "#F4EEFF", // font color (on dark)
-          "neutral-content": "#1C1C1C", // font bg color (on dark)
-          "base-100": "#DCD6F7", // main bg color
-          info: "#1e40af", // blue one
-          success: "#60992D", // green one
-          warning: "#FF9F1C", // yellow one
-          error: "#FF6978", // red one
+          primary: "#964F4C", // main color
+          secondary: "#CA848A", // secondary color
+          accent: "#FFBE98", // accent
+          neutral: "#0d181e", // font color (on dark)
+          // "neutral-content": "#1C1C1C", // font bg color (on dark)
+          "base-100": "#ffffe3", // main bg color
+          info: "#00b1ff", // blue one
+          success: "#6cc53d", // green one
+          warning: "#eebf00", // yellow one
+          error: "#d90041", // red one
         },
       },
     ],

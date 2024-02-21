@@ -7,7 +7,8 @@
     font-family: "IBM Plex Sans Thai";
     font-style: normal;
     font-weight: normal;
-    src: local(""),
+    src:
+      local(""),
       url("assets/fonts/ibm-plex-sans-thai-regular.woff2") format("woff2"),
       /* Chrome 26+, Opera 23+, Firefox 39+ */
         url("assets/fonts/ibm-plex-sans-thai-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
@@ -16,7 +17,8 @@
     font-family: "IBM Plex Sans Thai";
     font-style: normal;
     font-weight: bold;
-    src: local(""),
+    src:
+      local(""),
       url("assets/fonts/ibm-plex-sans-thai-bold.woff2") format("woff2"),
       /* Chrome 26+, Opera 23+, Firefox 39+ */
         url("assets/fonts/ibm-plex-sans-thai-bold.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
@@ -35,8 +37,8 @@
 :root {
   margin: 0;
   padding: 0;
-  background: #dcd6f7;
-  color: #424874;
+  background: #ffbe98;
+  color: #0d181e;
   color-scheme: light dark;
   font-size: 100%;
   font-weight: 400;
@@ -52,7 +54,7 @@ body {
   /* place-items: center; */
   min-width: 320px;
   min-height: 100vh;
-  background-color: #dcd6f7;
+  background-color: #ffbe98;
 }
 
 p {
