@@ -11,6 +11,7 @@ The Vite template with react plugin and tools for scaffolding your project
   - [📝 Table of Contents](#-table-of-contents)
   - [📦 Template contains](#-template-contains)
   - [📝 Versions](#-versions)
+    - [v0.4.2 - `2024-04-23`](#v042---2024-04-23)
     - [v0.4.1 - `2024-04-17`](#v041---2024-04-17)
     - [v0.4.0 - `2024-02-21`](#v040---2024-02-21)
     - [v0.3.3 - `2023-07-18`](#v033---2023-07-18)
@@ -30,6 +31,10 @@ The Vite template with react plugin and tools for scaffolding your project
 - [x] CI/CD supported (`Jenkins` & `SonarQube`)
 
 ## 📝 Versions
+
+### v0.4.2 - `2024-04-23`
+
+- Updated dependencies
 
 ### v0.4.1 - `2024-04-17`
 
