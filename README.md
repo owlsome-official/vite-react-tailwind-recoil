@@ -87,7 +87,7 @@ The Vite template with react plugin and tools for scaffolding your project
 1. Initialized (don't forget to rename `my-project`)
 
     ```bash
-    npx degit buildingwatsize/vite-react-tailwind-recoil#main my-project
+    npx degit owlsome-official/vite-react-tailwind-recoil#main my-project
     ```
 
 2. Go to project folder
