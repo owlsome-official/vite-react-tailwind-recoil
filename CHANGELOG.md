@@ -2,6 +2,10 @@
 
 ## Version History
 
+### [v0.4.7] - `2024-11-19`
+
+- Updated dependencies
+
 ### [v0.4.6] - `2024-09-20`
 
 - Fixed known vulnerabilities
@@ -69,6 +73,7 @@
 
 - First time ever, it contains a lot of dir/files but it was needed.
 
+[v0.4.7]: https://github.com/buildingwatsize/vite-react-tailwind-recoil/releases/tag/v0.4.7
 [v0.4.6]: https://github.com/buildingwatsize/vite-react-tailwind-recoil/releases/tag/v0.4.6
 [v0.4.5]: https://github.com/buildingwatsize/vite-react-tailwind-recoil/releases/tag/v0.4.5
 [v0.4.4]: https://github.com/buildingwatsize/vite-react-tailwind-recoil/releases/tag/v0.4.4
