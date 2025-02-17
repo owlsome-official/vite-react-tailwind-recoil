@@ -11,6 +11,7 @@ The Vite template with react plugin and tools for scaffolding your project
   - [📝 Table of Contents](#-table-of-contents)
   - [📦 Template contains](#-template-contains)
   - [📝 Versions](#-versions)
+    - [v0.5.0 - `2025-02-17`](#v050---2025-02-17)
     - [v0.4.7 - `2024-11-19`](#v047---2024-11-19)
     - [v0.4.6 - `2024-09-20`](#v046---2024-09-20)
     - [v0.4.5 - `2024-08-27`](#v045---2024-08-27)
@@ -19,10 +20,6 @@ The Vite template with react plugin and tools for scaffolding your project
     - [v0.4.2 - `2024-04-23`](#v042---2024-04-23)
     - [v0.4.1 - `2024-04-17`](#v041---2024-04-17)
     - [v0.4.0 - `2024-02-21`](#v040---2024-02-21)
-    - [v0.3.3 - `2023-07-18`](#v033---2023-07-18)
-    - [v0.3.2 - `2023-06-09`](#v032---2023-06-09)
-    - [v0.3.1 - `2023-05-22`](#v031---2023-05-22)
-    - [v0.3.0 - `2023-01-30`](#v030---2023-01-30)
   - [📌 Get Started](#-get-started)
     - [Want some more ?](#want-some-more-)
 
@@ -36,6 +33,14 @@ The Vite template with react plugin and tools for scaffolding your project
 - [x] CI/CD supported (`Jenkins` & `SonarQube`)
 
 ## 📝 Versions
+
+### v0.5.0 - `2025-02-17`
+
+- Still on `React 18`, due to Recoil doesn't update to support `React 19` yet.
+- Updated `tailwindcss 4`
+- Updated dependencies
+- Migrated to new `react-router v7`
+- Updated [Pantone Color of the year 2025](https://www.pantone.com/color-of-the-year/2025)
 
 ### v0.4.7 - `2024-11-19`
 
@@ -71,25 +76,6 @@ The Vite template with react plugin and tools for scaffolding your project
 
 - Updated [Pantone Color of the year 2024](https://www.pantone.com/color-of-the-year/2024)
 - Updated dependencies
-
-### v0.3.3 - `2023-07-18`
-
-- Updated dependencies
-
-### v0.3.2 - `2023-06-09`
-
-- Updated dependencies
-
-### v0.3.1 - `2023-05-22`
-
-- Updated dependencies
-
-### v0.3.0 - `2023-01-30`
-
-- Added `prettier`, and `prettier-plugin-tailwindcss`
-- Re-formatted all files
-- Updated dependencies
-- Added some necessary files for yarn v3
 
 ... [more](./CHANGELOG.md)
 

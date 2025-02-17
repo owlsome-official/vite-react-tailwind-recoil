@@ -1,7 +1,7 @@
 import AboutPage from "pages/AboutPage";
 import HomePage from "pages/HomePage";
 import NotFoundPage from "pages/NotFoundPage";
-import { Route, Routes } from "react-router-dom";
+import { Route, Routes } from "react-router";
 import "./App.css";
 
 const App = () => {
