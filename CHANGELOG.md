@@ -2,6 +2,10 @@
 
 ## Version History
 
+### [v0.5.1] - `2025-10-20`
+
+- Updated dependencies
+
 ### [v0.5.0] - `2025-02-17`
 
 - Still on `React 18`, due to Recoil doesn't update to support `React 19` yet.
@@ -81,6 +85,7 @@
 
 - First time ever, it contains a lot of dir/files but it was needed.
 
+[v0.5.1]: https://github.com/buildingwatsize/vite-react-tailwind-recoil/releases/tag/v0.5.1
 [v0.5.0]: https://github.com/buildingwatsize/vite-react-tailwind-recoil/releases/tag/v0.5.0
 [v0.4.7]: https://github.com/buildingwatsize/vite-react-tailwind-recoil/releases/tag/v0.4.7
 [v0.4.6]: https://github.com/buildingwatsize/vite-react-tailwind-recoil/releases/tag/v0.4.6

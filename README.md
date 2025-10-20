@@ -1,5 +1,10 @@
 # ⚡ vite-react-tailwind-recoil ⚡
 
+> ⚠️ **Caution:** This is the final supported version.  
+> Future updates will **not be supported**. Please consider migrating your project to a maintained stack or template.
+> 
+> Recommended to check out `vite-react-tailwind-jotai`
+
 ## 📘 About
 
 The Vite template with react plugin and tools for scaffolding your project
@@ -11,15 +16,7 @@ The Vite template with react plugin and tools for scaffolding your project
   - [📝 Table of Contents](#-table-of-contents)
   - [📦 Template contains](#-template-contains)
   - [📝 Versions](#-versions)
-    - [v0.5.0 - `2025-02-17`](#v050---2025-02-17)
-    - [v0.4.7 - `2024-11-19`](#v047---2024-11-19)
-    - [v0.4.6 - `2024-09-20`](#v046---2024-09-20)
-    - [v0.4.5 - `2024-08-27`](#v045---2024-08-27)
-    - [v0.4.4 - `2024-08-15`](#v044---2024-08-15)
-    - [v0.4.3 - `2024-06-25`](#v043---2024-06-25)
-    - [v0.4.2 - `2024-04-23`](#v042---2024-04-23)
-    - [v0.4.1 - `2024-04-17`](#v041---2024-04-17)
-    - [v0.4.0 - `2024-02-21`](#v040---2024-02-21)
+    - [v0.6.0 - `2025-10-20`](#v060---2025-10-20)
   - [📌 Get Started](#-get-started)
     - [Want some more ?](#want-some-more-)
 
@@ -34,47 +31,8 @@ The Vite template with react plugin and tools for scaffolding your project
 
 ## 📝 Versions
 
-### v0.5.0 - `2025-02-17`
+### v0.6.0 - `2025-10-20`
 
-- Still on `React 18`, due to Recoil doesn't update to support `React 19` yet.
-- Updated `tailwindcss 4`
-- Updated dependencies
-- Migrated to new `react-router v7`
-- Updated [Pantone Color of the year 2025](https://www.pantone.com/color-of-the-year/2025)
-
-### v0.4.7 - `2024-11-19`
-
-- Updated dependencies
-
-### v0.4.6 - `2024-09-20`
-
-- Fixed known vulnerabilities
-- Updated dependencies
-
-### v0.4.5 - `2024-08-27`
-
-- Updated nginx image version
-
-### v0.4.4 - `2024-08-15`
-
-- Updated dependencies
-
-### v0.4.3 - `2024-06-25`
-
-- Updated dependencies
-- Fixed securities issues/PRs
-
-### v0.4.2 - `2024-04-23`
-
-- Updated dependencies
-
-### v0.4.1 - `2024-04-17`
-
-- Updated dependencies
-
-### v0.4.0 - `2024-02-21`
-
-- Updated [Pantone Color of the year 2024](https://www.pantone.com/color-of-the-year/2024)
 - Updated dependencies
 
 ... [more](./CHANGELOG.md)
