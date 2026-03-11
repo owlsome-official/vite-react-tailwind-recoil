@@ -2,6 +2,16 @@
 
 ## Version History
 
+### [v0.6.1] - `2026-03-10`
+
+- **Project archived.** Recoil has been discontinued by Meta (repository archived, last release v0.7.7 in May 2023).
+- No further updates, bug fixes, or security patches will be provided.
+- Please migrate to [vite-react-tailwind-jotai](https://github.com/buildingwatsize/vite-react-tailwind-jotai)
+
+### [v0.6.0] - `2025-10-20`
+
+- Updated dependencies
+
 ### [v0.5.1] - `2025-10-20`
 
 - Updated dependencies
@@ -85,6 +95,8 @@
 
 - First time ever, it contains a lot of dir/files but it was needed.
 
+[v0.6.1]: https://github.com/buildingwatsize/vite-react-tailwind-recoil/releases/tag/v0.6.1
+[v0.6.0]: https://github.com/buildingwatsize/vite-react-tailwind-recoil/releases/tag/v0.6.0
 [v0.5.1]: https://github.com/buildingwatsize/vite-react-tailwind-recoil/releases/tag/v0.5.1
 [v0.5.0]: https://github.com/buildingwatsize/vite-react-tailwind-recoil/releases/tag/v0.5.0
 [v0.4.7]: https://github.com/buildingwatsize/vite-react-tailwind-recoil/releases/tag/v0.4.7

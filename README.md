@@ -1,35 +1,32 @@
 # ⚡ vite-react-tailwind-recoil ⚡
 
-> ⚠️ **Caution:** This is the final supported version.  
-> Future updates will **not be supported**. Please consider migrating your project to a maintained stack or template.
-> 
-> Recommended to check out `vite-react-tailwind-jotai`
+> **ARCHIVED** -- This project is no longer maintained.
+>
+> [Recoil has been discontinued by Meta](https://github.com/facebookexperimental/Recoil) (last release: v0.7.7, May 2023; repository archived). As a result, this template will no longer receive updates, bug fixes, or security patches.
+>
+> **Please migrate to [vite-react-tailwind-jotai](https://github.com/buildingwatsize/vite-react-tailwind-jotai)**, which uses [Jotai](https://jotai.org/) -- an actively maintained, lightweight atomic state management library with a similar API.
+
+---
 
 ## 📘 About
 
-The Vite template with react plugin and tools for scaffolding your project
-
-## 📝 Table of Contents
-
-- [⚡ vite-react-tailwind-recoil ⚡](#-vite-react-tailwind-recoil-)
-  - [📘 About](#-about)
-  - [📝 Table of Contents](#-table-of-contents)
-  - [📦 Template contains](#-template-contains)
-  - [📝 Versions](#-versions)
-    - [v0.6.0 - `2025-10-20`](#v060---2025-10-20)
-  - [📌 Get Started](#-get-started)
-    - [Want some more ?](#want-some-more-)
+The Vite template with react plugin and tools for scaffolding your project.
 
 ## 📦 Template contains
 
 - [x] React 18
 - [x] Vite (build tool)
 - [x] TailwindCSS (with `daisyUI` css components completion)
-- [x] Recoil (state management)
+- [x] ~~Recoil (state management)~~ -- **discontinued by Meta**
 - [x] Containerized with Docker (`nginx-alpine` image)
 - [x] CI/CD supported (`Jenkins` & `SonarQube`)
 
 ## 📝 Versions
+
+### v0.6.1 - `2026-03-10`
+
+- Project archived. Recoil is discontinued by Meta.
+- Please migrate to [`vite-react-tailwind-jotai`](https://github.com/buildingwatsize/vite-react-tailwind-jotai)
 
 ### v0.6.0 - `2025-10-20`
 
@@ -38,6 +35,11 @@ The Vite template with react plugin and tools for scaffolding your project
 ... [more](./CHANGELOG.md)
 
 ## 📌 Get Started
+
+> **Note:** This template is archived and should not be used for new projects. Please use [`vite-react-tailwind-jotai`](https://github.com/buildingwatsize/vite-react-tailwind-jotai) instead.
+
+<details>
+<summary>Legacy instructions (for reference only)</summary>
 
 1. Initialized (don't forget to rename `my-project`)
 
@@ -63,8 +65,6 @@ The Vite template with react plugin and tools for scaffolding your project
     yarn dev
     ```
 
-### Want some more ?
-
-see [Vite Guide](https://vitejs.dev/guide/)
+</details>
 
 🌈 Vite Template – Made with ❤️ by Watsize 🌈

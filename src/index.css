@@ -6,26 +6,26 @@
   default: false;
   prefersdark: false;
   color-scheme: "light";
-  --color-base-100: oklch(100% 0 0);
-  --color-base-200: oklch(98% 0 0);
-  --color-base-300: oklch(95% 0 0);
-  --color-base-content: oklch(21% 0.006 285.885);
-  --color-primary: oklch(44% 0.119 151.328);
-  --color-primary-content: oklch(93% 0.034 272.788);
-  --color-secondary: oklch(65% 0.241 354.308);
-  --color-secondary-content: oklch(94% 0.028 342.258);
-  --color-accent: oklch(77% 0.152 181.912);
-  --color-accent-content: oklch(38% 0.063 188.416);
-  --color-neutral: oklch(44% 0.119 151.328);
-  --color-neutral-content: oklch(92% 0.004 286.32);
-  --color-info: oklch(74% 0.16 232.661);
-  --color-info-content: oklch(29% 0.066 243.157);
-  --color-success: oklch(76% 0.177 163.223);
-  --color-success-content: oklch(37% 0.077 168.94);
-  --color-warning: oklch(82% 0.189 84.429);
-  --color-warning-content: oklch(41% 0.112 45.904);
-  --color-error: oklch(71% 0.194 13.428);
-  --color-error-content: oklch(27% 0.105 12.094);
+  --color-base-100: oklch(96% 0 0);
+  --color-base-200: oklch(92% 0 0);
+  --color-base-300: oklch(86% 0 0);
+  --color-base-content: oklch(30% 0 0);
+  --color-primary: oklch(50% 0 0);
+  --color-primary-content: oklch(95% 0 0);
+  --color-secondary: oklch(60% 0 0);
+  --color-secondary-content: oklch(95% 0 0);
+  --color-accent: oklch(65% 0 0);
+  --color-accent-content: oklch(25% 0 0);
+  --color-neutral: oklch(40% 0 0);
+  --color-neutral-content: oklch(92% 0 0);
+  --color-info: oklch(60% 0 0);
+  --color-info-content: oklch(95% 0 0);
+  --color-success: oklch(60% 0 0);
+  --color-success-content: oklch(95% 0 0);
+  --color-warning: oklch(70% 0 0);
+  --color-warning-content: oklch(30% 0 0);
+  --color-error: oklch(45% 0 0);
+  --color-error-content: oklch(95% 0 0);
   --radius-selector: 0.5rem;
   --radius-field: 0.25rem;
   --radius-box: 0.5rem;
@@ -102,9 +102,9 @@
 :root {
   margin: 0;
   padding: 0;
-  background: #ffbe98;
-  color: #0d181e;
-  color-scheme: light dark;
+  background: #e5e5e5;
+  color: #3a3a3a;
+  color-scheme: light;
   font-size: 100%;
   font-weight: 400;
   line-height: 1.75;
@@ -116,10 +116,9 @@
 body {
   margin: 0;
   display: flex;
-  /* place-items: center; */
   min-width: 320px;
   min-height: 100vh;
-  background-color: #9e7a68;
+  background-color: #d4d4d4;
 }
 
 p {

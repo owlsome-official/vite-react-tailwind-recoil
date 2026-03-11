@@ -34,19 +34,19 @@ const EasyButton = () => {
         <>
           <div>Count: {counter}</div>
           <button
-            className="btn-outline btn-primary btn"
+            className="btn-outline btn-neutral btn"
             onClick={() => setCounter(counter + 1)}
           >
             +
           </button>
           <button
-            className="btn-outline btn-primary btn"
+            className="btn-outline btn-neutral btn"
             onClick={() => setCounter(counter - 1)}
           >
             -
           </button>
           <button
-            className="btn-outline btn-error btn"
+            className="btn-outline btn-neutral btn"
             onClick={handleClickReset}
           >
             Reset
